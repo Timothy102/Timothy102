@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudhbelwadi&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=timothy102&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+  </p>
