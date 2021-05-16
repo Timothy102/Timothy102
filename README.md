@@ -5,12 +5,11 @@
 
 ## Who Am I
 
-- 🔭 I am a young & passionate AI researcher  
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I am a young & passionate AI researcher  
+* 🤔 Curious about applying AI to make an impact
+* 🌱 Golang and Machine Learning Developer
+* 🎓 Relentless Learner
+- 💬 Ask me about anything
 
 ### Favorite Programming Languages and Tools 🔭🚀🔥
 <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> |<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> |
@@ -46,3 +45,4 @@
   <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
   <a target="_blank" href="https://cvetko-tim.medium.com//">Medium</a> ●
   <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a>
+  <a target="_blank" href="cvetko.tim@gmail.com">Gmail</a>
