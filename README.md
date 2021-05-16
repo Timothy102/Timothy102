@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/<Cloud>-<GCP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Kubernetes>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<Raspberry PI>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Tools>-<RaspberryPI>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Connect! Share! Conquer!
 
