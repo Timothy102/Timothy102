@@ -12,6 +12,12 @@
 - ⚡ Fun fact: ...
 -->
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/golang.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -31,9 +37,9 @@
 
 ![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/<Data Engineer>-<Spark>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<DataEngineer>-<Spark>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/<Data Scientist>-<Jupyterlab>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<DataScientist>-<Jupyterlab>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/<Cloud>-<GCP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
