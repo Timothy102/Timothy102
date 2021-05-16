@@ -12,6 +12,11 @@
 - ⚡ Fun fact: ...
 -->
 
+### Favorite Programming Languages and Tools 🔭🚀🔥
+<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> |<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> |
+|:---:|:---:|:---:|
+
+<div align="center">
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -34,3 +39,10 @@
 ![](https://img.shields.io/badge/<Tools>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Kubernetes>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Raspberry PI>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<i>Connect with me:</i><br>
+
+  <a target="_blank" href="https://www.linkedin.com/in/tim-cvetko-32842a1a6/">LinkedIn</a> ●
+  <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
+  <a target="_blank" href="https://cvetko-tim.medium.com//">Medium</a> ●
+  <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a>
