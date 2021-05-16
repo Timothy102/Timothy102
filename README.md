@@ -40,6 +40,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/tim-cvetko-32842a1a6/">LinkedIn</a> ●
   <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
   <a target="_blank" href="https://cvetko-tim.medium.com//">Medium</a> ●
-  <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a>
+  <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a> ●
   <a target="_blank" href="cvetko.tim@gmail.com">Gmail</a>
 
