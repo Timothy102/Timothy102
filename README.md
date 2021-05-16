@@ -7,11 +7,10 @@
 * 🤔 Curious about applying AI to make an impact
 * 🌱 Golang and Machine Learning Developer
 * 🎓 Relentless Learner
-- 💬 Ask me about anything
+* 💬 Ask me about anything
 
 ### Favorite Programming Languages and Tools 🔭🚀🔥
 <img src="https://raw.githubusercontent.com/timothy102/timothy102/master/golang.png" width=60>    | <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> |<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> |
-|:---:|:---:|:---:|
 
 <div align="center">
 
@@ -25,6 +24,7 @@
 </a>
 </p>
 
+# Things I'm good at
   
 ![](https://img.shields.io/badge/<Developer>-<Golang>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<MachineLearning>-<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
