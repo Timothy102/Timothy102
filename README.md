@@ -9,7 +9,7 @@
 * 🎓 Relentless Learner
 * 💬 Ask me about anything
 
-### Favorite Programming Languages and Tools 🔭🚀🔥
+## Favorite Programming Languages and Tools 🔭🚀🔥
 <img src="https://raw.githubusercontent.com/timothy102/timothy102/master/golang.png" width=60>     <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60>  <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> 
 
 <div align="center">
@@ -24,7 +24,7 @@
 </a>
 </p>
 
-# Tech Stack
+## Tech Stack
   
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3776AB&labelColor=000000)
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
