@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
