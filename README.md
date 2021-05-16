@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/<Tools>-<Kubernetes>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<Raspberry PI>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<i>Connect with me:</i><br>
+# Connect! Share! Conquer!
 
   <a target="_blank" href="https://www.linkedin.com/in/tim-cvetko-32842a1a6/">LinkedIn</a> ●
   <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
