@@ -44,3 +44,5 @@
   <a target="_blank" href="https://cvetko-tim.medium.com//">Medium</a> ●
   <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a>
   <a target="_blank" href="cvetko.tim@gmail.com">Gmail</a>
+
+![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
