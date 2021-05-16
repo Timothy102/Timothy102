@@ -1,7 +1,5 @@
 ### Hey, you made it! Welcome to my GitHub Profile 👋
 
-<!--
-**Timothy102/Timothy102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Who Am I
 
