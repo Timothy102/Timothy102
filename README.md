@@ -24,18 +24,16 @@
 </a>
 </p>
 
-# Things I'm good at
+# Tech Stack
   
-![](https://img.shields.io/badge/<Developer>-<Golang>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<MachineLearning>-<TensorFlow>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<AppliedAI>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<DataEngineer>-<Spark>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<DataScientist>-<Jupyterlab>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Cloud>-<GCP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<Docker>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<Kubernetes>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<RaspberryPI>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=python&message=Python&label=&color=3776AB&labelColor=000000)
+![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
+![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000)
+<br/>
+![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&message=PowerShell&label=&color=5391FE&labelColor=000000)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
+
 
 # Connect! Share! Conquer!
 
@@ -45,4 +43,3 @@
   <a target="_blank" href="https://developers.google.com/profile/u/111552176739751018460#account">GoogleDeveloperGroup</a>
   <a target="_blank" href="cvetko.tim@gmail.com">Gmail</a>
 
-![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
