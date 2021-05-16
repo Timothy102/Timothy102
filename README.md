@@ -1,4 +1,4 @@
-### Hey, you made it! Welcome to my GitHub Profile 👋
+# Hey, you made it! Welcome to my GitHub Profile 👋
 
 
 ## Who Am I
