@@ -3,11 +3,11 @@
 
 ## Who Am I
 
-* 🔭 I am a young & passionate AI researcher  
-* 🤔 Curious about applying AI to make an impact
-* 🌱 Golang and Machine Learning Developer
-* 🎓 Relentless Learner
-* 💬 Ask me about anything
+* 🔭  I am a young & passionate AI researcher  
+* 🤔  Curious about applying AI to make an impact
+* 🌱  Golang and Machine Learning Developer
+* 🎓  Relentless Learner
+* 💬  Ask me about anything
 
 ## Favorite Programming Languages and Tools 🔭🚀🔥
 <img src="https://raw.githubusercontent.com/timothy102/timothy102/master/golang.png" width=60>     <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60>  <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> 
