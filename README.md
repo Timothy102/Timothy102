@@ -3,9 +3,9 @@
 
 ## Who Am I
 
-* 🔭  I am a young & passionate AI researcher  
+* 🔭  I am a young AI Researcher 
 * 🤔  Curious about applying AI to make an impact
-* 🌱  Golang and Machine Learning Developer
+* 🌱  Golang & Machine Learning Developer
 * 🎓  Relentless Learner
 * 💬  Ask me about anything
 
