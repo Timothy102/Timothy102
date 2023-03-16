@@ -3,7 +3,7 @@
 
 ## Who Am I
 
-* 🔭  I am a young AI Researcher 
+* 🔭  Entrepreneur 1st; AI Researcher 2nd. 
 * 🤔  Curious about applying AI to make an impact
 * 🌱  Golang & Machine Learning Developer
 * 🎓  Relentless Learner
