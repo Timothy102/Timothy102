@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile 👋
 
 
-## Who Am I
+## Who Am I?
 
 * 🔭  Entrepreneur 1st; AI Researcher 2nd. 
 * 🤔  Curious about applying AI to make an impact
