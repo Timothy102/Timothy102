@@ -1,12 +1,11 @@
-# Welcome to my GitHub Profile 👋
+# Hey, I'm Tim 👋
 
 
 ## Who Am I?
 
-* 🔭  Entrepreneur 1st; AI Researcher 2nd. 
-* 🤔  Curious about applying AI to make an impact
-* 🌱  Machine Learning Developer
-* 🎓  Relentless Learner
+* 🔭  I am an ML engineer building AI-1st businesses
+* 🤔  Super curious about vertical AI in biotech, healthcare, ops.
+* 🎓  Machine Learning Engineer
 * 💬  Ask me about anything
 
 ## Favorite Programming Languages and Tools 🔭🚀🔥
@@ -35,7 +34,7 @@
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
 
 
-# Connect! Share! Conquer!
+# Reach me via!
 
   <a target="_blank" href="https://www.linkedin.com/in/tim-cvetko-32842a1a6/">LinkedIn</a> ●
   <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
