@@ -4,8 +4,8 @@
 ## Who Am I?
 
 * 🔭  I am an ML engineer building AI-1st businesses
-* 🤔  Super curious about vertical AI in biotech, healthcare, ops.
-* 🎓  Machine Learning Engineer
+* 🤔  Super curious about vertical AI in biotech, healthcare, ops
+* 🎓  Backend/infra/ml
 * 💬  Ask me about anything
 
 ## Favorite Programming Languages and Tools 🔭🚀🔥
