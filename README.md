@@ -34,7 +34,7 @@
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
 
 
-# Reach me via!
+# Connect
 
   <a target="_blank" href="https://www.linkedin.com/in/tim-cvetko-32842a1a6/">LinkedIn</a> ●
   <a target="_blank" href="https://www.facebook.com/cvetko.tim/">Facebook</a> ●
